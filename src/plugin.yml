@@ -1,0 +1,5 @@
+name: UTS
+version: 0.0.1
+author: Emile Vos
+api-version: 1.14
+main: com.foxiko.ejv.hva.uts.Main

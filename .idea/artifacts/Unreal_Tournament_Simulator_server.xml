@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Unreal Tournament Simulator:server">
+    <output-path>$PROJECT_DIR$/server/plugins</output-path>
+    <root id="archive" name="Unreal Tournament Simulator.jar">
+      <element id="module-output" name="Unreal Tournament Simulator" />
+    </root>
+  </artifact>
+</component>
